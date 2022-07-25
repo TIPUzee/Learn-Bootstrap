@@ -1,0 +1,73 @@
+
+	<!-- gallery -->
+	<div id="gallery">
+		<div id="main-gallery" class="carousel slide bg-dark text-white data-bs-target="carousel">
+			<!-- slides -->
+			<div class="carousel-inner">
+					.row 
+					<div class="carousel-item active col-4">
+						<div class="carousel-content d-flex align-items-center justify-content-center">
+							<h3>Heading 1</h3>
+						</div>
+					</div>
+					<div class="carousel-item">
+						<div class="carousel-content d-flex align-items-center justify-content-center">
+							<h3>Heading 2</h3>
+						</div>
+					</div>
+					<div class="carousel-item">
+						<div class="carousel-content d-flex align-items-center justify-content-center">
+							<h3>Heading 3</h3>
+						</div>
+					</div>
+
+
+					<div class="carousel-item">
+						<div class="carousel-content d-flex align-items-center justify-content-center">
+							<h3>Heading 4</h3>
+						</div>
+					</div>
+					<div class="carousel-item">
+						<div class="carousel-content d-flex align-items-center justify-content-center">
+							<h3>Heading 5</h3>
+						</div>
+					</div>
+					<div class="carousel-item">
+						<div class="carousel-content d-flex align-items-center justify-content-center">
+							<h3>Heading 6</h3>
+						</div>
+					</div>
+
+					<div class="carousel-item">
+						<div class="carousel-content d-flex align-items-center justify-content-center">
+							<h3>Heading 7</h3>
+						</div>
+					</div>
+					<div class="carousel-item">
+						<div class="carousel-content d-flex align-items-center justify-content-center">
+							<h3>Heading 8</h3>
+						</div>
+					</div>
+					<div class="carousel-item">
+						<div class="carousel-content d-flex align-items-center justify-content-center">
+							<h3>Heading 9</h3>
+						</div>
+					</div>
+
+			</div>
+
+			<!-- indicators -->
+			<ol class="carousel-indicators">
+				<li data-bs-target="#main-gallery" data-bs-slide-to="0" class="active"></li>
+				<li data-bs-target="#main-gallery" data-bs-slide-to="1"></li>
+				<li data-bs-target="#main-gallery" data-bs-slide-to="2"></li>
+				<li data-bs-target="#main-gallery" data-bs-slide-to="3"></li>
+				<li data-bs-target="#main-gallery" data-bs-slide-to="4"></li>
+				<li data-bs-target="#main-gallery" data-bs-slide-to="5"></li>
+				<li data-bs-target="#main-gallery" data-bs-slide-to="6"></li>
+				<li data-bs-target="#main-gallery" data-bs-slide-to="7"></li>
+				<li data-bs-target="#main-gallery" data-bs-slide-to="8"></li>
+			</ol>
+		</div>
+	</div>
+	
